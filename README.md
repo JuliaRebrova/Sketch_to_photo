@@ -1,2 +1,2 @@
 # Sketch_to_photo
-Neural network coloring sketches
+Neural network GAN coloring sketches
